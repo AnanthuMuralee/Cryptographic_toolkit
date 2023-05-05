@@ -72,6 +72,7 @@ h1, h2, h3, h4, h4, h5, h6 {
     background-color: #B9EDDD;
     color: #159895;
     border-color: #159895;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
   .cipher-text {
     font-size: 1.35rem;
@@ -152,7 +153,7 @@ h1, h2, h3, h4, h4, h5, h6 {
     color: #B9EDDD;
     border-color: #B9EDDD;
     margin: 1%;
-    width: 30%;
+    width: 50%;
     border-radius: 8px;
     margin-top: 4%;
     margin-bottom: 7%;
@@ -163,6 +164,7 @@ h1, h2, h3, h4, h4, h5, h6 {
     background-color: #B9EDDD;
     color: #159895;
     border-color: #159895;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
 
   .cipher-text {
@@ -254,6 +256,7 @@ h1, h2, h3, h4, h4, h5, h6 {
   background-color: #159895;
   color: #B9EDDD;
   border-color: #B9EDDD;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 .col-lg-4 {
